@@ -1,0 +1,24 @@
+Mono path[0] = 'C:/Users/User/Desktop/RimWorld.v1.4.3690/Game/RimWorldWin64_Data/Managed'
+Mono config path = 'C:/Users/User/Desktop/RimWorld.v1.4.3690/Game/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path C:/Users/User/Desktop/RimWorld.v1.4.3690/Game/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 570 Series (ID=0x67df)
+    Vendor:   
+    VRAM:     4074 MB
+    Driver:   31.0.14037.1007
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.094 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initialized touch support.
+UnloadTime: 1.541100 ms
+RimWorld 1.4.3690 rev786
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1c3c -> priority: 1 
+  Thread -> id: 14dc -> priority: 1 
+  Thread -> id: 24c0 -> priority: 1 
+  Thread -> id: 2678 -> priority: 1 
